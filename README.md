@@ -1,4 +1,0 @@
-openshift-rms
-=============
-
-rms
